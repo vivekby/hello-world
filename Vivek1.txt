@@ -1,0 +1,3 @@
+Hi this is a 1st file addition test.
+
+Make sure to remain the naming conventions of file.
